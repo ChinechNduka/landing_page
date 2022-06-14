@@ -1,4 +1,4 @@
-## https://chinechnduka.github.io/landing_page/#
+## https://chinechnduka.github.io/landing_page/#   << This is the hosted page!
 
 # Assignment
 
